@@ -1,0 +1,18 @@
+{
+  "name": "IQ計測ブックレット",
+  "short_name": "IQ計測",
+  "description": "図形推理・数列推理・数字の逆唱の3部構成で、推定IQを95%区間つきで表示するテスト。",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#EDF3EC",
+  "theme_color": "#1C7A58",
+  "categories": ["education", "games"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
